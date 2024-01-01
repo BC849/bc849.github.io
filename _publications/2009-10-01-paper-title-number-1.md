@@ -2,14 +2,28 @@
 title: "HCC Next Generation of Exoplanet Research"
 collection: publications
 permalink: /publication/HowardCC
-excerpt: ''
+excerpt: 'Performed high-precision observations on a scientific telescope. Examined telescope attributes and developed methods to better calibrate measurement instruments and optimize performance.'
 date: 2021-05
-venue: 'JOURNAL OF RESEARCH IN PROGRESS VOL. 4'
+venue: 'Journal Of Research In Progress Vol. 4'
 paperurl: 'https://pressbooks.howardcc.edu/jrip4/chapter/hccs-next-generation-of-exoplanet-research/'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Warner, N, et al. "HCC Next Generation of Exoplanet Research," Journal Of Research In Progress, vol.4, pp.89-98, May 2021, [Online]. Available: https://pressbooks.howardcc.edu/jrip4/'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Performed high-precision observations on a scientific telescope. Examined telescope attributes and developed methods to better calibrate measurement instruments and optimize performance.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Warner, N, et al. "HCC Next Generation of Exoplanet Research," Journal Of Research In Progress, vol.4, pp.89-98, May 2021, [Online]. Available: https://pressbooks.howardcc.edu/jrip4/.
+
+---
+title: "Global Technology: Analysis of Goodbye for Now"
+collection: publications
+permalink: /publication/HowardCC
+excerpt: 'Analyzed the ethics on Artificial Intelligence per literature analysis. Connected themes with ethical issues surrounding future GPT-like software and social data mining.'
+date: 2020-05
+venue: 'Howard Community College Scholar Symposium'
+paperurl: 'https://sites.google.com/inst.hcpss.org/honorscontract/home?authuser=0'
+citation: 'Cheung, Bryan. "Global Technology: Analysis of Goodbye for Now," in Proceedings of the Howard Community College Scholar Symposium, 2020.'
+---
+
+Analyzed the ethics on Artificial Intelligence per literature analysis. Connected themes with ethical issues surrounding future GPT-like software and social data mining.
+
+Recommended citation: Cheung, Bryan. "Global Technology: Analysis of Goodbye for Now," in Proceedings of the Howard Community College Scholar Symposium, 2020.
