@@ -1,7 +1,7 @@
 ---
 title: "HCC Next Generation of Exoplanet Research"
 collection: publications
-permalink: /publications/321
+permalink: /publications/2021-5-Exoplanets
 excerpt: 'Performed high-precision observations on a scientific telescope. Examined telescope attributes and developed methods to better calibrate measurement instruments and optimize performance.'
 date: 2021-05
 venue: 'Journal Of Research In Progress Vol. 4'
