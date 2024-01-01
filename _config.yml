@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Bryan Cheung"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #""
   location         : "Maryland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tFAZ8bIAAAAJ&hl=en"
   email            : bcheung289@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -106,10 +106,10 @@ author:
   orcid            : "https://orcid.org/0009-0006-8125-4038"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # https://stackoverflow.com/users/17661236/superboyz6
+  stackoverflow    : https://stackoverflow.com/users/17661236/superboyz6
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
