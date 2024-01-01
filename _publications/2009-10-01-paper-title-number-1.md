@@ -1,7 +1,7 @@
 ---
 title: "HCC Next Generation of Exoplanet Research"
 collection: publications
-permalink: /publication/HowardCC
+permalink: /publications/
 excerpt: 'Performed high-precision observations on a scientific telescope. Examined telescope attributes and developed methods to better calibrate measurement instruments and optimize performance.'
 date: 2021-05
 venue: 'Journal Of Research In Progress Vol. 4'
@@ -16,7 +16,7 @@ Recommended citation: Warner, N, et al. "HCC Next Generation of Exoplanet Resear
 ---
 title: "Global Technology: Analysis of Goodbye for Now"
 collection: publications
-permalink: /publication/HowardCC
+permalink: /publications/
 excerpt: 'Analyzed the ethics on Artificial Intelligence per literature analysis. Connected themes with ethical issues surrounding future GPT-like software and social data mining.'
 date: 2020-05
 venue: 'Howard Community College Scholar Symposium'
