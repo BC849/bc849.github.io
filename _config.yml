@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Bryan Cheung"
   avatar           : "profile.png"
-  bio              : #""
+  bio              : "A Person."
   location         : "Maryland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tFAZ8bIAAAAJ&hl=en"
   email            : bcheung289@gmail.com
   researchgate     : 
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/bryan-cheung-a5b27924a"
   orcid            : "https://orcid.org/0009-0006-8125-4038"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : https://stackoverflow.com/users/17661236/superboyz6
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
