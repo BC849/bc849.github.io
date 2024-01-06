@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 This is Bryan. I am a student.
+
+Leadership Portfolio: https://sites.google.com/view/dragon-leadership-portfolio/home
