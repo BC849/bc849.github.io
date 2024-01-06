@@ -6,7 +6,7 @@ excerpt: 'Performed high-precision observations on a scientific telescope. Exami
 date: 2021-05-01
 venue: 'Journal Of Research In Progress Vol. 4'
 paperurl: 'https://pressbooks.howardcc.edu/jrip4/chapter/hccs-next-generation-of-exoplanet-research/'
-citation: 'Warner, N, et al. "HCC Next Generation of Exoplanet Research," Journal Of Research In Progress, vol.4, pp.89-98, May 2021.
+citation: 'Warner, N, et al. "HCC Next Generation of Exoplanet Research," Journal Of Research In Progress, vol.4, pp.89-98, May 2021.'
 ---
 
 Performed high-precision observations on a scientific telescope. Examined telescope attributes and developed methods to better calibrate measurement instruments and optimize performance.
